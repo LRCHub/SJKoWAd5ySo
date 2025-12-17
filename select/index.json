@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "晴天",
+  "base_artist": "周杰倫",
+  "createdAt": "2025-12-17T14:33:41.487721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/01_晴天_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/02_晴天_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/03_晴天_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/04_晴天_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "晴天 陰天 雨天",
+      "artist": "Ronald Cheng",
+      "has_synced": true,
+      "path": "select/05_晴天_陰天_雨天_Ronald_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "晴天 陰天 雨天",
+      "artist": "鄭中基",
+      "has_synced": true,
+      "path": "select/06_晴天_陰天_雨天_鄭中基.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "晴れの日(晴天)",
+      "artist": "告五人",
+      "has_synced": true,
+      "path": "select/07_晴れの日(晴天)_告五人.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "晴天 陰天 雨天",
+      "artist": "Ronald Cheng",
+      "has_synced": true,
+      "path": "select/08_晴天_陰天_雨天_Ronald_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "晴天 (Live)",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/09_晴天_(Live)_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "晴天 陰天 雨天",
+      "artist": "Ronald Cheng",
+      "has_synced": true,
+      "path": "select/10_晴天_陰天_雨天_Ronald_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "晴天 - Live",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/11_晴天_-_Live_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/12_晴天_DOES.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "Chou, Jay",
+      "has_synced": true,
+      "path": "select/13_晴天_Chou,_Jay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "TOTALFAT",
+      "has_synced": true,
+      "path": "select/14_晴天_TOTALFAT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "晴天 陰天 雨天 - Sunny Cloudy Rainy Days",
+      "artist": "Ronald Cheng",
+      "has_synced": true,
+      "path": "select/15_晴天_陰天_雨天_-_Sunny_Cloudy_Rainy_Days_Ronald_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "Derrick Hoh",
+      "has_synced": true,
+      "path": "select/16_晴天_Derrick_Hoh.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "晴天 阴天 雨天",
+      "artist": "郑中基",
+      "has_synced": true,
+      "path": "select/17_晴天_阴天_雨天_郑中基.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "晴天",
+      "artist": "张信哲",
+      "has_synced": true,
+      "path": "select/18_晴天_张信哲.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "晴天",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_01_晴天_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "晴天",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_02_晴天_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "晴天",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_03_晴天_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Chin Tien",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_04_Chin_Tien_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "晴天",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_05_晴天_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "晴天",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_06_晴天_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "晴天",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_07_晴天_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "晴天",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_08_晴天_Jay_Chou.txt"
+    }
+  ]
+}
